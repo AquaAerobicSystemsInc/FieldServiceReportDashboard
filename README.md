@@ -1,3 +1,7 @@
+---
+title: This is my title
+layout: post
+---
 <style>
 body {
     margin: 0;            /* Reset default margin */
